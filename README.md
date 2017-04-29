@@ -58,7 +58,7 @@ Now you can start calling the Helpscout API :D
 
 Find the docs here: http://developer.helpscout.net/help-desk-api/
 
-The client is implemented in tortilla, so you should be able to convert the endpoint url to a Python call pretty easily
+The client is implemented in [tortilla](https://pypi.python.org/pypi/tortilla), so you should be able to convert the endpoint url to a Python call pretty easily
 
 ```python
 #https://api.helpscout.net/v1/mailboxes.json
