@@ -1,0 +1,4 @@
+pandas
+tortilla
+pytest
+ipython

@@ -1,0 +1,2 @@
+from python:3-onbuild
+ENV HELPSCOUT_API_KEY=$(HELPSCOUT_API_KEY)
