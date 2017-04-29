@@ -39,8 +39,6 @@ If you set the following environment variable, that package will use that key to
 HELPSCOUT_API_KEY=key_value
 ```
 
-```
-
 ```python
 from helpscout_api import HelpscoutClient
 
