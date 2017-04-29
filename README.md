@@ -62,7 +62,7 @@ The client is implemented in [tortilla](https://pypi.python.org/pypi/tortilla), 
 
 ```python
 #https://api.helpscout.net/v1/mailboxes.json
-envelope = api.mailboxes.get()
+envelope = helpscout.api.mailboxes.get()
 ```
 
 ## Api Results
