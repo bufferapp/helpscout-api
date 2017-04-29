@@ -39,11 +39,6 @@ If you set the following environment variable, that package will use that key to
 HELPSCOUT_API_KEY=key_value
 ```
 
-To get access to an instance of the Helpscout api, use the connect method
-
-```
-from helpscout.
-helpscout = client.connect()
 ```
 
 ```python
