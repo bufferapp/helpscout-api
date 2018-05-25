@@ -1,4 +1,4 @@
-# helpscout_api
+# helpscout-api
 
 A simple Python interface to [Helpscout API][helpscout-api].
 
@@ -13,21 +13,21 @@ For development: Docker
 You can use `pip` to install helpscout_api
 
 ```bash
-pip install git+https://github.com/bufferapp/helpscout_api
+pip install git+https://github.com/bufferapp/helpscout-api
 ```
 
 If you prefer, you can clone it and run the setup.py file. Use the following
-commands to install helpscout_api from Github:
+commands to install helpscout-api from Github:
 
 ```bash
-git clone https://github.com/bufferapp/helpscout_api
-cd helpscout_api
+git clone https://github.com/bufferapp/helpscout-api
+cd helpscout-api
 python setup.py install
 ```
 
 ## Basic Usage
 
-To use helpscout_api, you need your Helpscout API key.
+To use helpscout-api, you need your Helpscout API key.
 
 Log in to Helpscout, go to 'Your Profile' > 'API keys'
 
